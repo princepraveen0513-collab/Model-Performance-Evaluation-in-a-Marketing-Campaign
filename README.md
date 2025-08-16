@@ -1,4 +1,4 @@
-# W06 – Marketing Campaign Model Evaluation
+# Marketing Campaign Model Evaluation
 
 ## Understanding how to assess a Machine Learning model: Key performance metrics and their implications explored.
 
