@@ -2,8 +2,9 @@
 
 ## Understanding how to assess a Machine Learning model: Key performance metrics and their implications explored.
 
+
 **Notebook:** `modelEvaluation.ipynb`  
-**Title (in notebook):** Assignment : Model Performance Evaluation in a Marketing Campaign
+Model Performance Evaluation in a Marketing Campaign
 This project evaluates and compares multiple classification models for a **marketing campaign response** task using a **synthetic dataset**. It demonstrates end-to-end steps: data generation, preprocessing, model selection with cross-validation, and performance evaluation via metrics and diagnostic plots.
 ---
 ## 🎯 Objectives
